@@ -24,15 +24,9 @@ Play a steady tone at the exact frequency you need. Type a number in hertz, drag
 - **Tuning and music.** Use a clean reference pitch for an instrument or for ear training.
 - **Physics lessons.** Show how pitch and waveform change the sound.
 
-## Solfeggio frequencies
-
-A separate page plays the nine solfeggio tones (174, 285, 396, 417, 528, 639, 741, 852 and 963 Hz) as a bare sine wave, with no music on top:
-**[Solfeggio frequencies generator](https://toolster.net/tone_generator/solfeggio-frequencies)**
-
-## Videos
+## Video
 
 - [Online tone generator, short walkthrough](https://youtu.be/G-cPprO-a_Q)
-- [Solfeggio frequencies generator](https://youtu.be/WfiSKIxihY0)
 
 ## Note frequency table
 
