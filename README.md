@@ -2,7 +2,7 @@
 
 **[Open the online tone generator](https://toolster.net/tone_generator)**. Free, no install, works in any modern browser on desktop and phone.
 
-[![Online tone generator, watch the video](video.png)](https://youtu.be/G-cPprO-a_Q)
+![Tone generator](screenshot.png)
 
 Play a steady tone at the exact frequency you need. Type a number in hertz, drag the slider or pick a musical note, then press Play.
 
@@ -23,6 +23,10 @@ Play a steady tone at the exact frequency you need. Type a number in hertz, drag
 - **Tinnitus frequency matching.** Move the frequency until it sounds like the ringing you hear.
 - **Tuning and music.** Use a clean reference pitch for an instrument or for ear training.
 - **Physics lessons.** Show how pitch and waveform change the sound.
+
+## Video
+
+- [Online tone generator, short walkthrough](https://youtu.be/G-cPprO-a_Q)
 
 ## Note frequency table
 
