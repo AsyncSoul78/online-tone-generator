@@ -1,0 +1,13 @@
+{
+  "name": "online-tone-generator",
+  "version": "1.0.0",
+  "description": "Helper scripts for the online tone generator: note frequency table and WAV test tones",
+  "homepage": "https://toolster.net/tone_generator",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "notes": "node scripts/note-frequencies.js note-frequencies.csv",
+    "tone": "node scripts/make-test-tone.js",
+    "test": "node --test test/check.test.js"
+  }
+}

@@ -32,6 +32,16 @@ Play a steady tone at the exact frequency you need. Type a number in hertz, drag
 
 [`note-frequencies.csv`](note-frequencies.csv) lists every note from C0 to B8 in equal temperament with its MIDI number and frequency for A4 = 440 Hz and A4 = 432 Hz. Free to use in your own projects.
 
+## Helper scripts
+
+Small Node.js scripts, no dependencies (Node 18+):
+
+```bash
+npm run notes                                   # rebuild note-frequencies.csv
+node scripts/make-test-tone.js 1000 10 1khz.wav # 10 s sine test tone as WAV
+npm test                                        # check the table and the WAV writer
+```
+
 ## More
 
 - [About the tone generator](ABOUT.md): how it works, keyboard shortcuts, safety notes
@@ -40,4 +50,4 @@ Play a steady tone at the exact frequency you need. Type a number in hertz, drag
 
 Found a bug or want a feature? [Open an issue](../../issues).
 
-The tone generator itself is a hosted web app, its source code is not published here. The note table and texts in this repository are free to reuse with a link back.
+The tone generator itself is a hosted web app, its source code is not published here. The helper scripts are MIT licensed. The note table and texts are free to reuse with a link back.
